@@ -1,0 +1,2 @@
+Jenkins linux
+ip address centos :-172.17.22.64
